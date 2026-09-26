@@ -1,4 +1,4 @@
-# Kioptrix Level 2 - Reconnaissance & Enumeration
+# Kioptrix Level 1.1 - Reconnaissance & Enumeration
 
 ![Platform](https://img.shields.io/badge/Platform-VulnHub-blue)
 ![Category](https://img.shields.io/badge/Category-Reconnaissance-green)
